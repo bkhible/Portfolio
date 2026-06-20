@@ -35,18 +35,10 @@ function About() {
           <h1 className="text-2xl font-bold lowercase text-gray-900 mb-6">about me</h1>
           <div className="space-y-4 text-gray-600 leading-relaxed text-sm md:text-base">
             <p>
-              I'm Bethany Hible, a visual merchandiser with a passion for creating
-              compelling retail experiences that tell a story and drive connection
-              between brand and customer.
+              Hi, I’m Beth! I’ve spent most of my career in retail visual merchandising, with 14 years at Target and 7 of those as a Visual Merchandiser. My background is in store presentation, seasonal transitions, signage, mannequin styling, and other hands-on visual work across the sales floor. I’ve always liked the mix of creativity and problem-solving that comes with merchandising, and this portfolio is a collection of some of the visual work I’ve done over the years.
             </p>
             <p>
-              With a keen eye for detail and a deep understanding of consumer behavior,
-              I craft displays and environments that feel both intentional and inviting.
-              Every project is an opportunity to blend aesthetics with strategy.
-            </p>
-            <p>
-              When I'm not styling spaces, I'm drawing inspiration from architecture,
-              fashion, and the world around me.
+              When I'm not styling spaces, I'm working on my <a href="https://www.etsy.com/shop/groundscorecharmco/">Etsy shop</a> where I sell small batch charm jewelry, and indulging in photography and travel.
             </p>
           </div>
         </div>
