@@ -12,7 +12,7 @@ function About() {
         <div className="w-full md:w-72 shrink-0">
           <div className="w-full aspect-[3/4] bg-gray-100 overflow-hidden">
             <img
-              src="/images/about-photo.jpg"
+              src="/images/FullSizeRender.jpg"
               alt="Bethany Hible"
               className="w-full h-full object-cover"
               onError={(e) => {
