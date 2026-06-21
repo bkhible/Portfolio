@@ -15,7 +15,7 @@ function Contact() {
         >
           bethanyhible@gmail.com
         </a>
-
+<br>
         <a
           href="https://www.linkedin.com/in/bethany-hible-912326a5/"
           className="text-sm md:text-base text-gray-500 hover:text-gray-900 transition-colors tracking-wide"
