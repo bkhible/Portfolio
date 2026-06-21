@@ -8,32 +8,62 @@ const projects = [
   {
     id: 1,
     image: '/images/work-1.jpg',
-    caption: 'Window display — seasonal collection',
+    caption: 'Winter 2025 - Joylab, Brand Launch Gateway',
   },
   {
     id: 2,
     image: '/images/work-2.jpg',
-    caption: 'In-store feature wall',
+    caption: 'Spring 2025 - Shade & Shore, Front of Store Wall Display',
   },
   {
     id: 3,
     image: '/images/work-3.jpg',
-    caption: 'Product vignette styling',
+    caption: 'June 2025 - Universal Thread, Americana Moment',
   },
   {
     id: 4,
     image: '/images/work-4.jpg',
-    caption: 'Retail floor layout',
+    caption: 'June 2025 - Ava & Viv, Americana Moment',
   },
   {
     id: 5,
     image: '/images/work-5.jpg',
-    caption: 'Holiday window installation',
+    caption: 'Summer 2025 - Champion x Target, Brand Launch',
   },
   {
     id: 6,
     image: '/images/work-6.jpg',
-    caption: 'Brand campaign display',
+    caption: 'Fall 2025 - Wild Fable, Back to College Gateway',
+  },
+  {
+    id: 7,
+    image: '/images/work-7.jpg',
+    caption: 'Spring 2025 - Kate Spade x Target Collaboration',
+  },
+  {
+    id: 8,
+    image: '/images/work-8.jpg',
+    caption: 'Fall 2021 - Ava & Viv; Knox Rose',
+  },
+  {
+    id: 9,
+    image: '/images/work-9.jpg',
+    caption: 'Winter 2024 - Merry Cherry Chalet Gateway',
+  },
+  {
+    id: 10,
+    image: '/images/work-10.jpg',
+    caption: 'Winter 2025 - Holiday Family Sleep',
+  },
+  {
+    id: 11,
+    image: '/images/work-11.jpg',
+    caption: 'Spring 2025 - Hearth & Hand Spring Transition',
+  },
+  {
+    id: 12,
+    image: '/images/work-12.jpg',
+    caption: 'Spring 2025 - Hearth & Hand Spring Transition',
   },
 ]
 
