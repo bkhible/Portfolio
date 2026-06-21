@@ -38,7 +38,7 @@ function About() {
               Hi, I’m Beth! I’ve spent most of my career in retail visual merchandising, with 14 years at Target and 7 of those as a Visual Merchandiser. My background is in store presentation, seasonal transitions, signage, mannequin styling, and other hands-on visual work across the sales floor. I’ve always liked the mix of creativity and problem-solving that comes with merchandising, and this portfolio is a collection of some of the visual work I’ve done over the years.
             </p>
             <p>
-              When I'm not styling spaces, I'm working on my <a href="https://www.etsy.com/shop/groundscorecharmco/">Etsy shop</a> where I sell small batch charm jewelry, and indulging in photography and travel.
+              When I'm not styling spaces, I'm working on my <a href="https://www.etsy.com/shop/groundscorecharmco/">Etsy shop</a> selling small batch charm jewelry, studying web dev, taking care of my 14 year old cat Peaches, and indulging in photography and travel.
             </p>
           </div>
         </div>
